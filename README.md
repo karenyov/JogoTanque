@@ -2,7 +2,8 @@
 ================
 Projeto desenvolvido na FATEC SJC, trata-se de um jogo de tanque em JAVA.
 
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://github.com/karenyov/JogoTanque/blob/master/img-project/arena.jpg)
+![alt tag](https://github.com/karenyov/JogoTanque/blob/master/img-project/chefao.jpg)
 
 # Requisitos:
 * Eclipse IDE
